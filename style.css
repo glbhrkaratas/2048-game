@@ -38,3 +38,14 @@ body {
 .active {
     background-color: hsl(10, 50%, 50);
 }
+.developer{
+    margin-top: 600px;
+    margin-bottom: auto;
+    margin-left:300px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    color: #aaa;
+    font-size: small;
+
+}
